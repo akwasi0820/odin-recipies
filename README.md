@@ -1,0 +1,1 @@
+This project is meant to demonstrate my ability to utilize various HTML elements like text, lists, links, and images in HTML. Its also a chance for me to work with Git and GitHub in my workflow.
