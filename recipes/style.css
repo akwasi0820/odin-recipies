@@ -1,6 +1,8 @@
 * {
     font-family: 'Helvetica', sans-serif;
     box-sizing: border-box;
+    color: red;
+    background-color:antiquewhite
 }
 
 img {
@@ -10,3 +12,11 @@ img {
     margin: 0 auto;
 }
 
+h1 {
+    text-align: center;
+    background-color: brown;
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    color: white;
+}
