@@ -15,5 +15,10 @@ h1 {
 
 .main-container {
     display: flex;
-    flex: 1;
+    justify-content: space-evenly;
+}
+
+img {
+    width: 300px;
+    height: auto;
 }
