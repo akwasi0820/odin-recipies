@@ -24,9 +24,9 @@ h1 {
     justify-content: space-evenly
 }
 
-.container {
-    width: 500px;
-    height: 500px;
+.container, .contain-ing {
+    width: 350px;
+    height: 410px;
     border: 10px solid brown;
     border-radius: 20px;
     text-align: center;
@@ -37,16 +37,6 @@ h1 {
 .container p {
     background-color: salmon;
     font-size: 20px;
-}
-
-.contain-ing {
-    width: 500px;
-    height: 500px;
-    text-align: center;
-    border: 10px solid brown;
-    border-radius: 20px;
-    background-color: salmon;
-    align-self: center;
 }
 
 .contain-ing li {
